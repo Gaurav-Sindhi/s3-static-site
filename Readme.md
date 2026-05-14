@@ -134,13 +134,13 @@ http://gaurav-static-site-1234567.s3-website-ap-south-1.amazonaws.com
 
 ## 🔹 S3 Static Website Deployment Script Running
 
-![Deployment Script](screenshots/Screenshot%202026-04-27%20005543.png)
+![Deployment Script](Screenshots/Screenshot%202026-04-27%20005543.png)
 
 ---
 
 ## 🔹 Website Successfully Hosted on Amazon S3
 
-![Website Running](screenshots/Screenshot%202026-04-27%20101702.png)
+![Website Running](Screenshots/Screenshot%202026-04-27%20101702.png)
 
 ---
 
